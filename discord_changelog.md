@@ -1,11 +1,11 @@
-## What's Changed in capsules-hub v0.0.29
+## What's Changed in capsules-hub v0.0.30
 
 This is a **stable** release of capsules-hub with latest updates and improvements.
 
 ### Installation
 
-Download the appropriate package for your platform from the [release assets](https://github.com/Parallels/capsules-hub/releases/tag/v0.0.29).
+Download the appropriate package for your platform from the [release assets](https://github.com/Parallels/capsules-hub/releases/tag/v0.0.30).
 
 ### Links
 - **Public Repository**: [github.com/Parallels/capsules-hub](https://github.com/Parallels/capsules-hub)
-- **Monorepo Release**: [capsules-hub-v0.0.29](https://github.com/Parallels-Corp/capsule-manager/releases/tag/capsules-hub-v0.0.29)
+- **Monorepo Release**: [capsules-hub-v0.0.30](https://github.com/Parallels-Corp/capsule-manager/releases/tag/capsules-hub-v0.0.30)
