@@ -1,0 +1,6 @@
+b37b9e1ea06f2feedce888859df5ac9b1da35e7f9c6ba3f3d0decc37428aacfd  ./CHANGELOG.md
+845b474e7f667ba67a9668d85ae7706cadd6574c6d11eb5f4f5ee01031abd94e  ./capsules-hub_0.0.28_stable_arm64.app.zip
+f611c9c15d4e22f6ef5e7c3986b2cdf17c4f505d0baa631f4f263091c825e678  ./capsules-hub_0.0.28_stable_arm64.dmg
+e06ee610465c4e62d508228e671f3caa126dabf5e8b8e5a900ebd5cbbfa8f51f  ./checksums.txt
+2b485aa59ea1cc6cc0f098be5b3af801e17993736bfc5b6342ea83cc78d2de63  ./capsules-hub_0.0.28_stable_arm64.tar.gz.sig
+241ca2f6668ddce9fb11de1d28175eeafc4bfc80b6fe01d70a903bf0c6a69ec7  ./capsules-hub_0.0.28_stable_arm64.tar.gz
