@@ -5,6 +5,22 @@ All notable changes to the Application Hub module will be documented in this fil
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.31] - 2026-02-11
+
+- Fixed an issue with the volumes not being able to be set
+- Added global network and volumes to the configuration tab
+- fixes an issue with the combo box
+- updates some UI related to the services
+- Added some extra capsules
+- Fixed an issue where the technical feedback was going to the wrong channel
+- Added better logs to the capsules-hub
+- Added the root password for the marketplace
+- Improved the push of the feedback
+- fixed an issue with the missing variable in the prepare vm script
+- Fixed an issue with the modal focus in the application
+- Fixed an issue with the database
+- Added the webhook to the registry
+
 ## [0.0.30] - 2026-02-10
 
 

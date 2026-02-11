@@ -1,6 +1,6 @@
-148204442df68935bd2cc25fef0bb185107ae3d4f6d29444215e668a8d4220d6  ./capsules-hub_0.0.30_stable_arm64.app.zip
-a62de6fd17b2b6e1b2d8f4f65918bfc309f5849eaecedf9fa54fd3d32a2a3b52  ./CHANGELOG.md
-915df7945c519450224c9c521a5fdb8e19a08ffbd3205c50ee0af67c1374b736  ./capsules-hub_0.0.30_stable_arm64.tar.gz
-1f5f2f587804fec6e57c5a59d1b1734c3afc65492ef4263733318e41a02bc996  ./checksums.txt
-6e263d3daeb1ab4fec7b7499edced1e7699c273d1f1ef59793ec891d5de9962d  ./capsules-hub_0.0.30_stable_arm64.tar.gz.sig
-d3583eddcfbc7f20bc3eb928f3ab302f2c976f4361ef5fb2810783a68167a6be  ./capsules-hub_0.0.30_stable_arm64.dmg
+7df088449e6c9fe7dce51daaa6af1fc910cb3e8735f302b276439c5f30d8c3f2  ./CHANGELOG.md
+d239080a8d2f3e3dd4e5614af0a27a06344be27da6d44c84465e095a9cf3eda1  ./capsules-hub_0.0.31_stable_arm64.dmg
+b2b0c10ceddd6fb459dfaf87a97cc3fb022f2b5dc4a4d1b95b7da68274bff176  ./capsules-hub_0.0.31_stable_arm64.tar.gz
+a4c8537eb3e9258751179ddcbc75bdabc254f482653d872e8c846da8ef02d2e6  ./capsules-hub_0.0.31_stable_arm64.tar.gz.sig
+cc839d12c262744db3d604211f0006b9caa39912cc59bcec4ceac4500608d39d  ./checksums.txt
+3ea3f5a33872bf8f809acdc52f0b0b3ffadd3b8ad1dab332bd3d3a9337be1eeb  ./capsules-hub_0.0.31_stable_arm64.app.zip
