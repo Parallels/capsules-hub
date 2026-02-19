@@ -5,6 +5,13 @@ All notable changes to the Application Hub module will be documented in this fil
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.34] - 2026-02-19
+
+- Fixed an potential issue where brand new users could fail initial activation
+- Fixed an issue where we could not copy the password from the UI
+- Fixed an issue where if only a password was show in the AuthenticationUI then we still showed the field
+- Added a few more capsules
+
 ## [0.0.33] - 2026-02-12
 
 - Fixed an issue where we were sending too many OPEN_URL telemetry
