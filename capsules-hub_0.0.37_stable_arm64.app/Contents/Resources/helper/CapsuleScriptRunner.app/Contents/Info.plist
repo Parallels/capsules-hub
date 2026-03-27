@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleDevelopmentRegion</key>
+  <string>en</string>
+  <key>CFBundleExecutable</key>
+  <string>CapsuleScriptRunner</string>
+  <key>CFBundleIdentifier</key>
+  <string>com.parallels.capsulescriptrunner</string>
+  <key>CFBundleName</key>
+  <string>CapsuleScriptRunner</string>
+  <key>CFBundlePackageType</key>
+  <string>APPL</string>
+  <key>CFBundleShortVersionString</key>
+  <string>1.0</string>
+  <key>CFBundleVersion</key>
+  <string>1.0</string>
+  <key>LSMinimumSystemVersion</key>
+  <string>13.0</string>
+  <key>NSHumanReadableCopyright</key>
+  <string>© Parallels International GmbH</string>
+  <key>NSAppleEventsUsageDescription</key>
+  <string>Capsule Application Hub uses this helper to perform system configuration steps with your approval.</string>
+  <key>CFBundleIconFile</key>
+  <string>icon</string>
+</dict>
+</plist>
